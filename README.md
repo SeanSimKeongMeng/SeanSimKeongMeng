@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, ReactJS, Java, Springboot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SeanSimKeongMeng/Codecademy-Projects](https://github.com/SeanSimKeongMeng/Codecademy-Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/SeanSimKeongMeng/Codecademy-Projects, https://github.com/SeanSimKeongMeng/GitHub-Repo](https://github.com/SeanSimKeongMeng/Codecademy-Projects, https://github.com/SeanSimKeongMeng/GitHub-Repo)
 
 - 📫 How to reach me **sena0112@gmail.com**
 

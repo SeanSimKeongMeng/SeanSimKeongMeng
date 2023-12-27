@@ -4,7 +4,7 @@
 - 🌱 I’m have completed learning **HTML, CSS, ReactJS, Java, Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SeanSimKeongMeng](https://github.com/SeanSimKeongMeng)
-- 
+
 - 📫 How to reach me **sena0112@gmail.com**
 
 - ⚡ Fun fact **- I have been running marathons for the past 15 years**

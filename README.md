@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sim Keong Meng Sean</h1>
 <h3 align="center">Completed my course and geared up for a career as a full-stack Java developer. Passionate about building robust and scalable web applications, I'm focused on broadening my expertise across the development stack.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, ReactJS, Java, Springboot**
+- 🌱 I’m have completed learning **HTML, CSS, ReactJS, Java, Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SeanSimKeongMeng/Codecademy-Projects, https://github.com/SeanSimKeongMeng/GitHub-Repo](https://github.com/SeanSimKeongMeng/Codecademy-Projects, https://github.com/SeanSimKeongMeng/GitHub-Repo)
 
 - 📫 How to reach me **sena0112@gmail.com**
 
-- ⚡ Fun fact **I have been running marathons for the past 15 years**
+- ⚡ Fun fact **- I have been running marathons for the past 15 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sean sim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sean sim" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sena0112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sena0112" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/sean-sim-061aaa1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sean-sim-061aaa1b3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

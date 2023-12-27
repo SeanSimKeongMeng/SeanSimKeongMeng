@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sena0112@gmail.com**
 
-- ⚡ Fun fact **have been running marathons for the past 15 years**
+- ⚡ Fun fact **I have been running marathons for the past 15 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

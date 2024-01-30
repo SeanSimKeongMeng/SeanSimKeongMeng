@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SeanSimKeongMeng](https://github.com/SeanSimKeongMeng)
 
-- 📫 How to reach me **sena0112@gmail.com**
+- 📫 How to reach me **seankmsim@gmail.com**
 
 - ⚡ Fun fact **- I have been running marathons for the past 15 years**
 
